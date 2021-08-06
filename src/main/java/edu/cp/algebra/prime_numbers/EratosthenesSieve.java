@@ -6,7 +6,7 @@ public class EratosthenesSieve {
     Count all prime numbers from 1 to n (included)
     time - O(n * log log n), space - O(n)
      */
-    public int countPrimeNumbers(int n){
+    public int countPrimeNumbers(int n) {
         int m = (int) Math.sqrt(n);
         boolean[] sieve = new boolean[n + 1];
 
