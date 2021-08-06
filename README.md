@@ -32,6 +32,12 @@
 ---
 ### Prime numbers
 
+#### Sieve of Eratosthenes
+
+[Article](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
+[Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/prime_numbers/EratosthenesSieve.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/prime_numbers/EratosthenesSieveTest.java)
+
 
 
 
