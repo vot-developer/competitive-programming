@@ -4,8 +4,8 @@ public class BinaryExponentiation {
 
     /**
      * Returns the value of the first argument raised to the power of the second argument
+     * time - O(log b), space - O(1)
      */
-    //time - O(log b), space - O(1)
     public long binPow(long a, long b){
         long res = 1;
         while (b > 0) {
@@ -19,8 +19,8 @@ public class BinaryExponentiation {
 
     /**
      * Returns the value of the first argument raised to the power of the second argument by mod m
+     * time - O(log b), space - O(1)
      */
-    //time - O(log b), space - O(1)
     public long binPowMod(long a, long b, long m){
         long res = 1;
         a %= m;
