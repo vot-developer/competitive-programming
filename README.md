@@ -1,8 +1,10 @@
 # competitive-programming
 
 ## Algebra
+---
 
 ### Fundamentals
+---
 
 #### Binary Exponentiation
 
@@ -27,3 +29,10 @@
 [Article](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
 [Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/fundamentals/Fibonacci.java)
 [Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/fundamentals/FibonacciTest.java)
+
+### Prime numbers
+---
+
+
+
+
