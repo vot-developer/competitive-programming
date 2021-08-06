@@ -4,12 +4,13 @@ public class EratosthenesSieve {
 
     /*
     Count all prime numbers from 1 to n (included)
-    time - O(log log n), space - O(n)
+    time - O(n * log log n), space - O(n)
      */
     public int countPrimeNumbers(int n){
+        int m = (int) Math.sqrt(n);
         boolean[] sieve = new boolean[n + 1];
 
-        for (int i = 2; i <= n; i++){
+        for (int i = 2; i <= m; i++){
             if (!sieve[i]){ //log
                 for (int j = i * i; j <= n; j+=i) //log n
                     sieve[j] = true;
