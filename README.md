@@ -10,4 +10,8 @@
 [Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/fundamentals/BinaryExponentiation.java)
 [Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/fundamentals/BinaryExponentiationTest.java)
 
+#### Euclidean algorithm for computing the greatest common divisor
 
+[Article](https://cp-algorithms.com/algebra/euclid-algorithm.html)
+[Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/fundamentals/GCD.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/fundamentals/GCDTest.java)
