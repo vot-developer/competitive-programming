@@ -38,7 +38,18 @@
 [Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/prime_numbers/EratosthenesSieve.java)
 [Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/prime_numbers/EratosthenesSieveTest.java)
 
+#### Primality tests
 
+[Article](https://cp-algorithms.com/algebra/primality_tests.html)
+[Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/prime_numbers/EratosthenesSieve.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/prime_numbers/EratosthenesSieveTest.java)
 
+---
+### Number-theoretic functions
 
+#### Euler's totient function
+
+[Article](https://cp-algorithms.com/algebra/phi-function.html)
+[Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/number_theoretic_functions/EulerFunction.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/number_theoretic_functions/EulerFunctionTest.java)
 
