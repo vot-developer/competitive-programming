@@ -53,3 +53,12 @@
 [Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/number_theoretic_functions/EulerFunction.java)
 [Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/number_theoretic_functions/EulerFunctionTest.java)
 
+---
+### Modular arithmetic
+
+#### Modular Inverse
+[Article](https://cp-algorithms.com/algebra/phi-function.html)
+[Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/modular_arithmetic/ModularInverse.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/modular_arithmetic/ModularInverseTest.java)
+
+
