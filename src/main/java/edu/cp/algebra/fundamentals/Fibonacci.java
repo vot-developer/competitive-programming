@@ -10,7 +10,7 @@ public class Fibonacci {
         if (n < 3)
             return 1;
 
-        //(F_0, F_1) * P ^ n-2 = (F_n-2, F_n-1);
+        //(F_0, F_1) * P ^ n-1 = (F_n-1, F_n);
         int[][] P = new int[][]{{0, 1}, {1, 1}};
         int[][] res = P; //n - 1
         n -= 3;
