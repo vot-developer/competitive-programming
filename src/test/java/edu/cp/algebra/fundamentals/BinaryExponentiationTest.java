@@ -16,6 +16,13 @@ class BinaryExponentiationTest {
     @Test
     void binPow() {
         assertEquals(1594323l, binaryExponentiation.binPow(3, 13));
+        assertEquals(131072l, binaryExponentiation.binPow(2, 17));
+    }
+
+    @Test
+    void binPowRecursive() {
+        assertEquals(1594323l, binaryExponentiation.binPowRecursive(3, 13));
+        assertEquals(131072l, binaryExponentiation.binPowRecursive(2, 17));
     }
 
     @Test

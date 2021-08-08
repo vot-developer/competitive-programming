@@ -17,6 +17,19 @@ public class BinaryExponentiation {
         return res;
     }
 
+    //time - O(log b), space - O(log n)
+    public long binPowRecursive(long a, long b){
+        if (b == 0)
+            return 1;
+
+        long res = binPowRecursive(a, b / 2);
+        res *= res;
+        if ((b & 1) == 1)
+            res *= a;
+
+        return res;
+    }
+
     /**
      * Returns the value of the first argument raised to the power of the second argument by mod m
      * time - O(log b), space - O(1)
