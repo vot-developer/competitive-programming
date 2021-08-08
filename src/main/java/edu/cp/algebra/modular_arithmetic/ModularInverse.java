@@ -5,6 +5,8 @@ public class ModularInverse {
     /*
     Return inverse element to a (a ^ {-1}) for prime number - mod.
     Implementation's based on Fermat's little theorem (a^{m-1} = 1, by mod |m| and m - prime) and Binary Exponentiation alg.
+
+    time - O(log a), space - O(1)
      */
     public long calculate(int a, int mod){
         return binExpPow(a, mod - 2, mod);
