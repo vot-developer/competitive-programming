@@ -8,18 +8,19 @@ public class ModularInverse {
 
     time - O(log a), space - O(1)
      */
-    public long calculate(int a, int mod){
+    public int calculate(int a, int mod){
         return binExpPow(a, mod - 2, mod);
     }
 
-    private long binExpPow(long a, long b, long m){
+    private int binExpPow(int a, int b, int m){
         long res = 1;
+        long acc = a % m;
         while (b > 0) {
             if ((b & 1) == 1)
-                res = res * a % m;
-            a = a * a % m;
+                res = res * acc % m;
+            acc = acc * acc % m;
             b >>= 1;
         }
-        return res;
+        return (int) res;
     }
 }
