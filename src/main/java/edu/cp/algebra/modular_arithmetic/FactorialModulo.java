@@ -12,7 +12,7 @@ public class FactorialModulo {
     // if n/p % 2 = 0 :  1 * (n%p)! (mod p)
     // if n/p % 2 = 1 :  (p - 1) * (n%p)! (mod p)
 
-    //time - O(p + log_p(n))
+    //time - O(p + log_p(n)), space - O(p)
     public int factorial(int n, int p) {
         long[] f = new long[p];
         f[0] = 1;
@@ -29,7 +29,7 @@ public class FactorialModulo {
         return (int) res;
     }
 
-    //time - O(p * log_p(n))
+    //time - O(p * log_p(n)) - space O(1)
     public int factorialRec(int n, int p) {
         long res = 1;
         while (n > 1) {
