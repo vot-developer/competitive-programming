@@ -61,4 +61,7 @@
 [Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/modular_arithmetic/ModularInverse.java)
 [Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/modular_arithmetic/ModularInverseTest.java)
 
-
+#### Factorial modulo
+[Article](https://cp-algorithms.com/algebra/factorial-modulo.html)
+[Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/modular_arithmetic/FactorialModulo.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/modular_arithmetic/FactorialModuloTest.java)
