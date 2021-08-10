@@ -16,5 +16,6 @@ class FactorialModuloTest {
     @Test
     void factorial() {
         assertEquals(662, factorialModulo.factorial(13, 1_007));
+        assertEquals(227020758, factorialModulo.factorialRec(13, 1_000_000_007));
     }
 }
