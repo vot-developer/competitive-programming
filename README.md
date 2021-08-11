@@ -65,3 +65,11 @@
 [Article](https://cp-algorithms.com/algebra/factorial-modulo.html)
 [Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/modular_arithmetic/FactorialModulo.java)
 [Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/modular_arithmetic/FactorialModuloTest.java)
+
+---
+### Number systems
+
+#### Gray code
+[Article](https://cp-algorithms.com/algebra/gray-code.html)
+[Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/number_systems/GrayCode.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/number_systems/GrayCodeTest.java)
