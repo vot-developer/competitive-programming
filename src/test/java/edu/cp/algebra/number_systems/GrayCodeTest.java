@@ -15,8 +15,8 @@ class GrayCodeTest {
 
     @Test
     void get() {
-        int g1 = grayCode.get(133);
-        int g2 = grayCode.get(132);
+        int g1 = grayCode.get(130);
+        int g2 = grayCode.get(129);
         int diff = g1 ^ g2;
         int count = 0;
         for (; diff > 0; diff >>= 1)
