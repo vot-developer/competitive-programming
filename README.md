@@ -73,3 +73,23 @@
 [Article](https://cp-algorithms.com/algebra/gray-code.html)
 [Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/number_systems/GrayCode.java)
 [Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/number_systems/GrayCodeTest.java)
+
+
+---
+### Data Structures
+
+#### Minimum Stack / Minimum Queue
+[Article](http://e-maxx.ru/algo/stacks_for_minima)
+
+[Code MinimumStack](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/data_structures/fundamentals/MinimumStack.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/data_structures/fundamentals/MinimumStackTest.java)
+
+[Code MinimumQueue 1](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/data_structures/fundamentals/MinimumDequeueOne.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/data_structures/fundamentals/MinimumDequeueOneTest.java)
+
+[Code MinimumQueue 2](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/data_structures/fundamentals/MinimumDequeueTwo.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/data_structures/fundamentals/MinimumDequeueTwoTest.java)
+
+[Code MinimumQueue 3](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/data_structures/fundamentals/MinimumDequeueThree.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/data_structures/fundamentals/MinimumDequeueThreeTest.java)
+
