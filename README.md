@@ -1,5 +1,6 @@
 # competitive-programming
 
+---
 ## Algebra
 
 ---
@@ -102,3 +103,11 @@
 [Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/data_structures/fundamentals/SparseTable.java)
 [Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/data_structures/fundamentals/SparseTableTest.java)
 
+---
+### Trees
+
+#### Disjoint Set Union
+
+[Article](https://cp-algorithms.web.app/data_structures/disjoint_set_union.html)
+[Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/data_structures/trees/DisjointSetUnion.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/data_structures/trees/DisjointSetUnionTest.java)
