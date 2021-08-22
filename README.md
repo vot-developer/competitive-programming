@@ -111,3 +111,10 @@
 [Article](https://cp-algorithms.web.app/data_structures/disjoint_set_union.html)
 [Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/data_structures/trees/DisjointSetUnion.java)
 [Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/data_structures/trees/DisjointSetUnionTest.java)
+
+#### Fenwick Tree
+
+[Article](https://cp-algorithms.com/data_structures/fenwick.html)
+[Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/data_structures/trees/FenwickTree.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/data_structures/trees/FenwickTreeTest.java)
+
