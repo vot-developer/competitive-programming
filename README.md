@@ -117,4 +117,5 @@
 [Article](https://cp-algorithms.com/data_structures/fenwick.html)
 [Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/data_structures/trees/FenwickTree.java)
 [Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/data_structures/trees/FenwickTreeTest.java)
-
+[2D Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/data_structures/trees/TwoDimensionalFenwickTree.java)
+[2D Tests ](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/data_structures/trees/TwoDimensionalFenwickTreeTest.java)
