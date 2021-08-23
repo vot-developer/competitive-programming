@@ -23,5 +23,6 @@ class TwoDimensionalFenwickTreeTest {
         assertEquals(3, tree.sum(0, 1));
         assertEquals(16, tree.sum(0, 1, 1, 2));
         assertEquals(7, tree.sum(0, 1, 1, 1));
+        assertEquals(5, tree.sum(1, 1, 1, 1)); //single value
     }
 }
