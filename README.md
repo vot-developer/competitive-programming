@@ -119,3 +119,10 @@
 [Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/data_structures/trees/FenwickTreeTest.java)
 [2D Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/data_structures/trees/TwoDimensionalFenwickTree.java)
 [2D Tests ](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/data_structures/trees/TwoDimensionalFenwickTreeTest.java)
+
+
+#### Segment Tree
+
+[Article](https://cp-algorithms.com/data_structures/segment_tree.html)
+[Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/data_structures/trees/SegmentTree.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/data_structures/trees/SegmentTreeTest.java)
