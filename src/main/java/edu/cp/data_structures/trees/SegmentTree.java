@@ -34,11 +34,11 @@ public class SegmentTree {
         if (tl == tr)
             arr[index] = value;
         else {
-            int tm = (tl + tr) / 2;
-            if (pos <= tm)
-                update (index << 1, tl, tm, pos, value);
+            int mid = (tl + tr) / 2;
+            if (pos <= mid)
+                update (index << 1, tl, mid, pos, value);
             else
-                update ((index << 1) + 1, tm+1, tr, pos, value);
+                update ((index << 1) + 1, mid + 1, tr, pos, value);
             arr[index] = arr[index << 1] + arr[(index << 1) + 1];
         }
     }
