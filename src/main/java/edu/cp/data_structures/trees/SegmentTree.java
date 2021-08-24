@@ -2,20 +2,20 @@ package edu.cp.data_structures.trees;
 
 public class SegmentTree {
     private final int[] arr;
-    private final int tr;
+    private final int size;
 
     public SegmentTree(int[] input) {
         this.arr = new int[4 * input.length];
-        this.tr = input.length - 1;
+        this.size = input.length;
         build(input, 1, 0, input.length - 1);
     }
 
     public int sum(int l, int r){
-        return sum(1, 0, tr, l, r);
+        return sum(1, 0, size - 1, l, r);
     }
 
     public void update (int index, int value){
-        update(1, 0, tr, index, value);
+        update(1, 0, size - 1, index, value);
     }
 
     private int sum(int index, int tl, int tr, int l, int r) { //l, r - borders of required interval
