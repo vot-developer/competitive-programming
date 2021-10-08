@@ -18,7 +18,7 @@ public class SegmentTree {
         update(1, 0, size - 1, index, value);
     }
 
-    private int sum(int index, int tl, int tr, int l, int r) { //l, r - borders of required interval
+    private int sum(int index, int tl, int tr, int l, int r) {
         if (l > r)
             return 0;
 
@@ -30,7 +30,7 @@ public class SegmentTree {
             + sum((index << 1) + 1, mid + 1, tr, Math.max(l, mid + 1), r);
     }
 
-    private void update(int index, int tl, int tr, int pos, int value){
+    private void update(int index, int tl, int tr, int pos, int value) {
         if (tl == tr)
             arr[index] = value;
         else {
@@ -43,7 +43,7 @@ public class SegmentTree {
         }
     }
 
-    private void build(int[] input, int index, int tl, int tr){
+    private void build(int[] input, int index, int tl, int tr) {
         if (tl == tr)
             arr[index] = input[tl];
         else {
