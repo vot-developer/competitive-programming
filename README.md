@@ -42,8 +42,8 @@
 #### Primality tests
 
 [Article](https://cp-algorithms.web.app/algebra/primality_tests.html)
-[Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/prime_numbers/EratosthenesSieve.java)
-[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/prime_numbers/EratosthenesSieveTest.java)
+[Code](https://github.com/vot-developer/competitive-programming/blob/main/src/main/java/edu/cp/algebra/prime_numbers/Primality.java)
+[Tests](https://github.com/vot-developer/competitive-programming/blob/main/src/test/java/edu/cp/algebra/prime_numbers/PrimalityTest.java)
 
 ---
 ### Number-theoretic functions
