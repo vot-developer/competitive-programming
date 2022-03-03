@@ -1,5 +1,30 @@
 # competitive-programming
 
+- [Algebra](#algebra)
+    - [Fundamentals](#fundamentals)
+        - [Binary Exponentiation](#binary-exponentiation)
+        - [Euclidean algorithm for computing the greatest common divisor](#euclidean-algorithm-for-computing-the-greatest-common-divisor)
+        - [Extended Euclidean Algorithm](#extended-euclidean-algorithm)
+        - [Fibonacci Numbers](#fibonacci-numbers)
+    - [Prime numbers](#prime-numbers)
+        - [Sieve of Eratosthenes](#sieve-of-eratosthenes)
+        - [Primality tests](#primality-tests)
+    - [Number-theoretic functions](#number-theoretic-functions)
+        - [Euler's totient function](#eulers-totient-function)
+    - [Modular arithmetic](#modular-arithmetic)
+        - [Modular Inverse](#modular-inverse)
+        - [Factorial modulo](#factorial-modulo)
+    - [Number systems](#number-systems)
+        - [Gray code](#gray-code)
+- [Data Structures](#data-structures)
+    - [Fundamentals](#fundamentals)
+        - [Minimum Stack / Minimum Queue](#minimum-stack--minimum-queue)
+        - [Sparse Table](#sparse-table)
+    - [Trees](#trees)
+        - [Disjoint Set Union](#disjoint-set-union)
+        - [Fenwick Tree](#fenwick-tree)
+        - [Segment Tree](#segment-tree)
+
 ---
 ## Algebra
 
